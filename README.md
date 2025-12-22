@@ -4,7 +4,7 @@ This repository contains a small dataset and analysis materials for a qualitativ
 
 The data compares expected human interpretations with English outputs from Google Translate and Naver Papago, focusing on how implicit subjects are resolved or over-specified in translation.
 
-The examples and error categories are based on a writing sample analyzing discourse, pragmatic, and honorific cues in Korean.
+The examples and error categories are based on a paper analyzing discourse, pragmatic, and honorific cues in Korean.
 
 Related exploratory work:
 https://github.com/aybiketazegul/Korean-English-pronoun-resolution
